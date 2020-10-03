@@ -2,7 +2,7 @@
 setInterval(function(){
 
     //time to scroll to bottom
-    $("html, body").animate({ scrollTop: $(document).height() }, 1000);
+    $("html, body").animate({ scrollTop: $(document).height() }, 4000);
 
     //scroll to top
     setTimeout(function() {
